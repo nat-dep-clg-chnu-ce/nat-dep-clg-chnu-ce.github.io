@@ -50,7 +50,9 @@ exclude_patterns = []
 html_theme =  'furo' # 'sphinx_rtd_theme'
 
 html_theme_options = {
-    "source_edit_link": "https://github.com/nat-dep-clg-chnu-ce/nat-dep-clg-chnu-ce.github.io/{filename}",
+    "source_repository": "https://github.com/nat-dep-clg-chnu-ce/nat-dep-clg-chnu-ce.github.io/",
+    "source_branch": "main",
+    "source_directory": "docs/",
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
