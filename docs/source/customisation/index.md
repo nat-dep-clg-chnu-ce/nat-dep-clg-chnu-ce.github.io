@@ -1,6 +1,6 @@
 # Customisation
 
-Furo supports customisation of the theme's overall look and feel (through theme options) as well as a few per-page tweaks.
+Furo підтримує customisation of the theme's overall look and feel (through theme options) as well as a few per-page tweaks.
 
 This section serves to guide the user with customising Furo-based documentation. This page lists all the theme-specific customisations, as provided by this theme. Other pages in this section provide guidance for making specific customisations when using Sphinx with Furo.
 
